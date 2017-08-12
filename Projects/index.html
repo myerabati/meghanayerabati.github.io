@@ -7,7 +7,7 @@ title: My experiments with data
 	<ul class="posts">
 	 {% assign post_array = site.posts| where: "categories","Non-fiction" %}
 	 {% for post in post_array %}
-      		  <li><span>{{ post.date | date_to_string }}</span>&raquo;<a href="{{ post.url }}"> {{ post.title }}</a>{{post.content| truncatewords:20}}</li>
+      		  <li><span>{{ post.date | date_to_string }}</span>&raquo;<a href="{{ post.url }}"> {{ post.title }}</a><p>{{post.content| truncatewords:20}}</p></li>
     	  {% endfor %}
 	  
 
