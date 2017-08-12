@@ -1,0 +1,18 @@
+---
+layout: default
+title: Penny for a thought?
+---
+	<h1>{{ page.title }}</h1>
+	
+	<p>On libraries-<br /> <em>"Yet the library’s merits are more than merely practical. No other room carries such hope. It is a place to aspire to — to keep books you have never opened but just might if life stopped interfering. It contains your best potential. It is your better, more charming self."</em></p>
+	<p>All the creative and intellectual fodder that I need...</p>
+	<ul class="posts">
+	 {% assign post_array = site.posts| where: "categories","Reviews" %}
+	 {% for post in post_array %}
+      		  <li><span>{{ post.date | date_to_string }}</span>&raquo;<a href="{{ post.url }}"> {{ post.title }}</a> <p>{{ post.excerpt| truncatewords: 20  }}</p></li>
+    	  {% endfor %}
+	  
+
+
+
+
