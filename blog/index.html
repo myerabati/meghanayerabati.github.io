@@ -1,17 +1,14 @@
 ---
 layout: default
-title: Meghana Yerabati's Blog
+title: It's not you, it's me!
 ---
 	<h1>{{ page.title }}</h1>
+	<p>I've been writing <a href="https://pulsatinglife.wordpress.com/">on wordpress</a> for a long time now. Amazing as it has been, my interests have diversified and I've begun to feel that my blog needs to branch out too. I'll be publishing only fiction and poetry on my old blog. All other experiments with non-fiction, reviews and projects will be on this clean new website. You can find them here:</p>
 	<ul class="posts">
-	 
-	  {% for category in site.categories %}
-  	    <h3>{{ category[0] }}</h3>
-  		<ul>
-    			{% for post in category[1] %}
-      		  	  <li><span>{{ post.date | date_to_string }}</span>&raquo;<a href="{{ post.url }}"> {{ post.title }}</a></li>
-    			{% endfor %}
-  		</ul>
+	  {% for category in site.categories %}  	    
+		<li><a href="/{{category[0]}}/"><h3>{{ category[0] }}</h3></a>		    
+		</li>
+  		
 	   {% endfor %}
 
 	</ul>
