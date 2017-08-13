@@ -3,11 +3,13 @@ layout: default
 title: My experiments with data 
 ---
 	<h1>{{ page.title }}</h1>
-	<p><em>"All models are wrong. But some are useful."</em><br /> Economics, mathematics and computer science form my holy trinity. But sometimes, I can be sacrilegious!</p>
+	<blockquote><p class=quotes><em>"All models are wrong. But some are more useful than others."</em></p></blockquote>
+	<p> Economics, mathematics and computer science form my holy trinity. But sometimes, I can be sacrilegious! I work with R, Python and Spark. This space is my play-field, really.</p>
 	<ul class="posts">
-	 {% assign post_array = site.posts| where: "categories","Non-fiction" %}
+	 {% assign post_array = site.posts| where: "categories","Projects" %}
 	 {% for post in post_array %}
-      		  <li><span>{{ post.date | date_to_string }}</span>&raquo;<a href="{{ post.url }}"> {{ post.title }}</a><p>{{post.content| truncatewords:20}}</p></li>
+      		  <li><span>{{ post.date | date_to_string }}</span>&raquo;<a href="{{ post.url }}"> {{ post.title }}</a></li>
+		  <p>"{{post.description}}..."</p>
     	  {% endfor %}
 	  
 
