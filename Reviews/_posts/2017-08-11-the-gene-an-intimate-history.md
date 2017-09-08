@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "The Gene- an intimate history by Siddhartha Mukherjee"
-description: My rating: 4.5 out of 5 stars. 'Historically illuminating, thematically coherent, and supremely insightful'
-
+description: "My rating: 4.5 out of 5 stars. Historically illuminating, thematically coherent, and supremely insightful"
 total_time: 5 to 7 minutes
 ---
 
