@@ -5,9 +5,9 @@ description: "It’s well and good to say that you want to study everything. But
 total_time: 5 to 7 min
 ---
 
-“It’s well and good to say that you want to study everything. But, you see, the physical sciences and the social sciences differ by one important thing- the Human Factor”
+>_“It’s well and good to say that you want to study everything. But, you see, the physical sciences and the social sciences differ by one important thing- the Human Factor”_
 
-– A professor
+>_– A professor_
 
 As a student of both the Social Sciences and the Physical Sciences, or Applied Sciences rather, I try to understand what role the human factor plays in the organization of knowledge.
 

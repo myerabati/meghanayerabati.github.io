@@ -4,10 +4,9 @@ title: "Documenting the journey"
 description: "It all started with a talk by Mr. Mark Lindley on ‘Ecological economics and Amartya’. I had walked into the talk a jolly bit too late but, ah, I made it, and that made all the difference"
 total_time: 5 to 7 min
 ---
-You are a novice to a field only once.
+>_"You are a novice to a field only once."_
 
-–
-Yours truly
+>_-Yours truly_
 
 I suspect that the above words might sound naive, and over-reaching too. What, on god’s sweet beautiful earth, can ensure that I shall ever get past being a novice? Nothing at all. But perhaps the nature of the subject that you choose is what makes a difference. So one must enjoy that journey of exploring a new subject that you love…until you’re intellectually gratified. But, of course, learning is infinite, so I do hope this epiphany lasts for a long, long time, and I shall never ever be satisfied.
 
