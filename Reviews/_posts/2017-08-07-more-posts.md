@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "More posts but..."
-description: " Moving ahead, though, most book reviews that I publish of non-fiction would be having spoilers. Why, you ask? Read on..."
+description: " Moving ahead, though, most book reviews that I publish of non-fiction would be having spoilers. Why, you ask? Read on"
 total_time: 1 min
 ---
 

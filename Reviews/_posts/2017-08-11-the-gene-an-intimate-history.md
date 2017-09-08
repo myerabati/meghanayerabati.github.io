@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Gene- an intimate history by Siddhartha Mukherjee"
-description: Historically illuminating, thematically coherent, and supremely insightful — Siddhartha Mukherjee’s The Gene is a phenomenal book of scientific writing that I would recommend to anybody who would want to know about the history, development and consequences of ideas embodied by genetics.
+description: My rating: 4.5 out of 5 stars. 'Historically illuminating, thematically coherent, and supremely insightful'
 
 total_time: 5 to 7 minutes
 ---
