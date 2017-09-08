@@ -4,7 +4,7 @@ title: "Essay on Science, Social Science and the idea of Truth"
 description: "In yet another article today about my fascination with science and my experiments with economics, I speak of being at the cross-roads of studying technology and also studying how it has changed the landscape of the world"
 total_time: 5 to 7 min
 ---
-{Some have commented on this article already but I have edited it to make the essay more coherent. Thank you for reading and pardon me for putting up the first draft. I publish drafts so that I'm motivated to make changes ASAP. Else I keep putting it off!}
+_Some have commented on this article already but I have edited it to make the essay more coherent. Thank you for reading and pardon me for putting up the first draft. I publish drafts so that I'm motivated to make changes ASAP. Else I keep putting it off!_
 
 Humans seem to have an inherent tendency to leave behind a legacy of their own. The impulse to leave behind something that lasts longer than oneself is subconscious; we pass on our genetic information to our progeny to preserve the knowledge acquired from our own forefathers and adapted to the environment over long periods of time.
 

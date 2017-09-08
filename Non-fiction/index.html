@@ -4,12 +4,16 @@ title: Essays for a better world
 ---
 	<h1>{{ page.title }}</h1>
 	<blockquote><p class=quotes><em>"If you really want people to be tough, make them idealistic for some cause, make them tender for some other person, make them committed to some worldview that puts today’s temporary pain in the context of a larger hope."</em></p>
-	<pre align=right>- Not-my-quote </pre></blockquote>
+	<p class=quotesauth align=right><em>- Not-my-quote </em></p></blockquote>
 	<ul class="posts">
 	 {% assign post_array = site.posts| where: "categories","Non-fiction" %}
 	 {% for post in post_array %}
       		  <li><span>{{ post.date | date_to_string }}</span>&raquo;<a href="{{ post.url }}"> {{ post.title }}</a></li>
-		  <p>"{{post.description}}..."</p>
+		  {% if post.description==NULL%}
+			<p class=desc>"Read on..."</p>
+		  {% else %}
+			<p class=desc>"{{post.description}}..."</p>
+		  {% endif %}
     	  {% endfor %}
 	  
 
