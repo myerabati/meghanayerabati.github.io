@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Knowing the ballpark: General Elections '14"
-description: "The elections are drawing close and this time a lot seems to be at stake. While you read this, and I write it, there are people having discussions, debates, rallies, yatras and campaigns on the 2014 lok sabha polls. Journalists, enthusiasts, critics writing in blogs, like modern pulp-magazines, ranting, complaining, mobilizing through words. Here are a few of mine..."
+description: "The elections are drawing close and this time a lot seems to be at stake. While you read this, and I write it, there are people having discussions, debates, rallies, yatras and campaigns on the 2014 lok sabha polls. Journalists, enthusiasts, critics writing in blogs, like modern pulp-magazines, ranting, complaining, mobilizing through words. Here are a few of mine"
 total_time: 6 min
 ---
 The elections are drawing close and this time a lot seems to be at stake. While you read this, and I write it, there are people having discussions, debates, rallies, yatras and campaigns on the 2014 lok sabha polls. Journalists, enthusiasts, critics writing in blogs, like modern pulp-magazines, ranting, complaining, mobilizing through words. Morning is greeted by strangers heatedly arguing about the prime ministerial candidates over the front-page headlines, at night by the dabba-stalls towering over the hot chai and the arguments that come with late night inspiration.
