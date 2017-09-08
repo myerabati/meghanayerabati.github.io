@@ -9,7 +9,11 @@ title: My experiments with data
 	 {% assign post_array = site.posts| where: "categories","Projects" %}
 	 {% for post in post_array %}
       		  <li><span>{{ post.date | date_to_string }}</span>&raquo;<a href="{{ post.url }}"> {{ post.title }}</a></li>
-		  <p>"{{post.description}}..."</p>
+		  {% if post.description==NULL%}
+			<p>"Read on..."</p>
+		  {% else %}
+			<p>"{{post.description}}..."</p>
+		  {% endif %}
     	  {% endfor %}
 	  
 
