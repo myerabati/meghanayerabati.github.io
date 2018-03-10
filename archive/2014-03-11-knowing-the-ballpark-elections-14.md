@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Knowing the ballpark: General Elections '14"
+description: "The elections are drawing close and this time a lot seems to be at stake. While you read this, and I write it, there are people having discussions, debates, rallies, yatras and campaigns on the 2014 lok sabha polls. Journalists, enthusiasts, critics writing in blogs, like modern pulp-magazines, ranting, complaining, mobilizing through words. Here are a few of mine"
+total_time: 6 min
+---
+The elections are drawing close and this time a lot seems to be at stake. While you read this, and I write it, there are people having discussions, debates, rallies, yatras and campaigns on the 2014 lok sabha polls. Journalists, enthusiasts, critics writing in blogs, like modern pulp-magazines, ranting, complaining, mobilizing through words. Morning is greeted by strangers heatedly arguing about the prime ministerial candidates over the front-page headlines, at night by the dabba-stalls towering over the hot chai and the arguments that come with late night inspiration.
+
+Before I do pass judgement on the candidates, one must know how important the role of the party is that comes to power. The ruling-party has the power to control raise or denounce tariffs and licenses controlling all your excesses and shortages that determine the costs of your everyday utilities and services. It affects jobs and funds invested into your regular IT industries to handloom industries to agricultural activities and military assets. Your ruling party controls your ECONOMY. Everything ranging from big-shot businesses to travel and tourism is affected by important decisions and prohibitions that the ruling party decrees as suitable.
+
+Last year saw the passage of a few famous bills: The Women's reservation bill, the food security bill, the land acquisition bill, the Lokpal bill, the telangana bill. These bills were passed in the last year of the Congress's tenure, leaving the work unfinished. The scope of the bills passed, hastily if I may add, lies in the hands of the party that comes to power this year. So if you were rejoicing, hold up, the job's nowhere close to done.
+
+Lets talk about lifestyle. Society is corrupt. Lets face it. Anybody who has an ounce of power over you will, no doubt, exploit it. So if you've gone for a late night movie with your friends, you can consider yourself lucky if you haven't been stopped needlessly for a quick bribe. You've gone to the park with your boyfriend? You can expect to be verbally abused. If you've celebrated International Women's day, rethink if it is too soon to. If you support LGBT rights, know the attitude of the party you're going to vote for towards the matter . The person you vote for represents your views and opinions.
+
+Truth is: the middle class and the youth is becoming post-modern by the day, the society is changing perspectives and opinions on many controversial subjects by the day. Now if the ruling party has a conservative disposition (which the RSS is infamous for) the middle classes and the youth will be suppressed. Here I must add that bring a party who is led by a dictatorial leader and which has old-school approaches together and you have a political machine that takes hardly any inputs from the people and forces it's outputs. It's like an itch in the system that you have no control over. You expect the erring policeman or corrupt politician to be punished by his superiors (NOT BY MODI). But in a party that is overshadowed by one person, everybody else moves to the background and slacks in the power he exercises rightfully.
+
+Education. The enemies outside the border dwindle size-ably when compared to the evils thriving within. It is important to know what the ruling party is working for. Are all the achievements it parades about only the ones that can be shown on a shining plaque or are they uplifting the substance and life-style of the children and people of the country?
+
+Are minorities being suppressed? Is the society being ostracized- dividing us further until we're like pieces of a shrapnel only hinting at the damages that rampage in society?
+
+After all these questions that I ask, I ask you to closely scrutinize the portfolio of the candidates in power. Do they have clear cut ideals? Are their ideals too militant, fleeting in what they offer, or dictatorial? If they are, and you think that will not affect you as long as the stock-market is booming, and the rupee is not falling, you are sadly, sadly mistaken. Because a country whose GDP is low and men earn little can prosper if they are covered by proper health care, social security and high literacy. Don't be carried away by the need for instant action, because in the long run it will take the wind out of your sail slowly, progressing towards a major shipwreck.
+
+That said, do read up. Weigh the party, not just the face that leads it. If you have to, consider voting for Rahul Gandhi, at least the party might do most of the work for him. Do know what is in store voting for a face and not the party.
+
+It is easy to forget what has past, but it is important to remind ourselves that backward progress is not that impossible after all. Censor the media. Exploit power over simple people. Raise the prices but present a shiny IT community, or a fancy convention center that conducts international conferences. Tweak numbers. Disown riots. Human rights violations are not that far-fetched. The ruling party has important powers which can aggressively be misused. It is important to be aware of that before you cast your vote.
+
+'The 2002 Gujarat Riots have been called ethnic cleansing, a pogrom, and even genocide. The government estimated, according to the BBC, that “790 Muslims and 254 Hindus were killed, 223 more people reported missing and another 2,500 injured.” Those are facts, regardless of whether you think Modi was involved. Here comes the test: if you believe he was behind the riots—behind “genocide”—then Gujarat’s economic growth rate does not matter. Rather, it shouldn’t matter.'
+
+Important links:
+http://qz.com/178362/india-crosses-the-moral-line-of-no-return-if-narendra-modi-becomes-prime-minister/
+http://youthforlibertyindia.blogspot.in/
