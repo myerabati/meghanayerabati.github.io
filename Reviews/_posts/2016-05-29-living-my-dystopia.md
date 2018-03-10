@@ -3,6 +3,7 @@ layout: post
 title: "Living my dystopia"
 description: "The eternal cynicism that we keep hearing is this: We only act when something terribly wrong happens. But being prepared after an unfortunate event takes place sometimes doesn't help..."
 total_time: 5 min
+comments: true
 ---
 
 This is not a conspiracy theory.
