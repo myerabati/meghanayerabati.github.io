@@ -1,38 +1,35 @@
 ---
 layout: post
 title: "A method to madness"
-description: "All the resources that I've found helpful in exploring Quantitative economics, Datascience, Mathematics, Computing Languages and to apply it in the domain of Macroeconomic Policy, Macrofinance, Decision Sciences and Literature."
-total_time: "5 min"
+description: All the resources that I've found helpful in learning Quantitative economics, Datascience and Mathematics to apply in the domain of Macrofinance, Decision Sciences and Literature.
+total_time: "Discretionary"
 ---
 
-# Economics
+All the resources that I've found helpful in learning Quantitative economics, Datascience and Mathematics to apply in the domain of Macrofinance, Decision Sciences and Literature.
 
-## Quantitative Economics
-https://lectures.quantecon.org/py/
+## Economics
 
-## Mechanism Design
+### [Quantitative Economics](https://lectures.quantecon.org/py/)
 
-# Datascience
+### Mechanism Design
 
-## Clustering Algorithms
+## Datascience
 
-# Languages
+### Clustering Algorithms
 
-##Spark 
+## Computing Languages
+
+### Spark 
 There will be a separate module on Spark with clearer instuctions on how to use spark
 
-### Config
-https://spark.apache.org/docs/latest/configuration.html
+1. [Configuration](https://spark.apache.org/docs/latest/configuration.html)
+2. Programming
+	* [Scala Programming Guide](https://spark.apache.org/docs/0.9.0/scala-programming-guide.html)
+	* [Python Programming Guide](https://spark.apache.org/docs/0.9.0/python-programming-guide.html)
+	* [Pyspark Documentation](https://spark.apache.org/docs/latest/api/python/pyspark.html)
+3. [Monitoring](https://spark.apache.org/docs/latest/monitoring.html)
+	* [A good guide on SparkUI](https://databricks.com/blog/2015/06/22/understanding-your-spark-application-through-visualization.html)
+4. Big Data Courses
+	* [Hadoop MapReduce](https://www.youtube.com/watch?v=DEQNknALf_8&list=PLAwxTw4SYaPkXJ6LAV96gH8yxIfGaN3H)
+	* [Spark](https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x)
 
-### Programming
-https://spark.apache.org/docs/0.9.0/scala-programming-guide.html
-https://spark.apache.org/docs/0.9.0/python-programming-guide.html
-https://spark.apache.org/docs/latest/api/python/pyspark.html
-
-### Monitoring
-https://spark.apache.org/docs/latest/monitoring.html
-https://databricks.com/blog/2015/06/22/understanding-your-spark-application-through-visualization.html
-
-### Big Data Courses
-https://www.edx.org/course/big-data-analytics-using-spark-uc-san-diegox-dse230x
-https://www.youtube.com/watch?v=DEQNknALf_8&list=PLAwxTw4SYaPkXJ6LAV96gH8yxIfGaN3H
