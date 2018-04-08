@@ -1,0 +1,27 @@
+---
+layout: default
+title:  Seasons down the way... 
+---
+	<h1>{{ page.title }}</h1>
+	<blockquote><p class=quotes><em>"In jest, I once asked a close poet friend:<br/>
+“So, will you write a poem<br/>
+Even as you breathe your last?”<br/>
+He looked at me and, with a smile, said:<br/>
+“It’s impossible to write one before you die, my friend.<br/>
+I die a million deaths for every poem I write.”<br/>
+-<br/>
+Gulzar translated by Nirupama Dutt"</em></p></blockquote>
+	<p> A digest of poems curated by me for the love of poetry. None of the poems are my own and I shall give the writers due credit for their works.</p>
+	<ul class="posts">
+	 {% assign post_array = site.posts| where: "categories","Poetry-Digest" %}
+	 {% for post in post_array %}
+      		  <li><span>{{ post.date | date_to_string }}</span>&raquo;<a href="{{ post.url }}"> {{ post.title }}</a></li>
+		  {% if post.description==NULL%}
+			<p>"Read on..."</p>
+		  {% else %}
+			<p>"{{post.description}}..."</p>
+		  {% endif %}
+    	  {% endfor %}
+	  
+
+	</ul>
