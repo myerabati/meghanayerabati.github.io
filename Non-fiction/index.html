@@ -9,11 +9,6 @@ title: Essays for a better world
 	 {% assign post_array = site.posts| where: "categories","Non-fiction" %}
 	 {% for post in post_array %}
       		  <li><span>{{ post.date | date_to_string }}</span>&raquo;<a href="{{ post.url }}"> {{ post.title }}</a></li>
-		  {% if post.description==NULL%}
-			<p class=desc>"Read on..."</p>
-		  {% else %}
-			<p class=desc>"{{post.description}}..."</p>
-		  {% endif %}
     	  {% endfor %}
 	  
 
