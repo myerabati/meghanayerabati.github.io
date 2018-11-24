@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #ffffe6 
+    background-color: #fdfbfb
 
 }
 p.quotes{
@@ -34,7 +34,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #6b6b6b;
 }
 a.share{
     text-align: center;
@@ -76,4 +76,9 @@ ul.posts {
 ul.posts li {
     list-style: none;
     font-size: 1em;
+}
+ul.homepage li {    
+    font-family:'Calibri';
+    list-style: none;
+    font-size: 1.3em;
 }
