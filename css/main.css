@@ -60,12 +60,12 @@ p.posts {
     color: #333;
 }
 ol.posts p{
-    font-size: 0.8em;
+    font-size: 1.3em;
     line-height: 1.4em;
     color: #333;
 }
 ul.posts p{
-   font-size: 0.8em;
+   font-size: 1.3em;
     line-height: 1.4em;
     color: #333;
 }
@@ -81,7 +81,7 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-    font-size: 1em;
+    font-size: 1.3em;
 }
 ul.homepage li {    
     font-family:'Calibri';
