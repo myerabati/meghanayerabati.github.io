@@ -22,6 +22,7 @@ p.total-time{
     font-size: 1em;
     line-height: 1em;
     color: #333;}
+	
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -59,12 +60,12 @@ p.posts {
     color: #333;
 }
 ol.posts p{
-    font-size: 1em;
+    font-size: 0.8em;
     line-height: 1.4em;
     color: #333;
 }
 ul.posts p{
-   font-size: 1em;
+   font-size: 0.8em;
     line-height: 1.4em;
     color: #333;
 }
