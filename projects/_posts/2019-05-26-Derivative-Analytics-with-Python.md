@@ -22,10 +22,13 @@ Below are a few results from the textbook:
 
 **Intrinsic Value of Call Option**: The payoff of a call option at time 'T':
 
-![Call option payoff][call_option_payoff]
+![Call option payoff](C:\Users\Meghana\Documents\Technical\Webpage\meghanayerabati.github.io\projects\_posts\call_option_payoff.png)
 
 
 Time Value of Option
-Brownian Motion Model Statistical Analysis
+
+Brownian Motion Model
+
 Market Data Statistical Analysis
+
 Implied Volatility based on Black Scholes Model 
