@@ -22,7 +22,7 @@ Below are a few results from the textbook:
 
 **Intrinsic Value of Call Option**: The payoff of a call option at time 'T':
 
-![call_option_payoff][call_option_payoff.PNG]
+![call option payoff][call_option_payoff.PNG]
 
 
 Time Value of Option
