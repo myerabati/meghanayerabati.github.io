@@ -12,9 +12,9 @@ I will be posting the results from exercises from the book on the blog. The code
 
 
 Broadly, the scope of this book is to: 
-1. characterize a market model
-2. study a few theoretical market models and the calibrate them to market-determined prices
-3. understand how to value and hedge exotic products based on market models
+* characterize a market model
+* study a few theoretical market models and the calibrate them to market-determined prices
+* understand how to value and hedge exotic products based on market models
 
 
 Below are a few results from the textbook:
