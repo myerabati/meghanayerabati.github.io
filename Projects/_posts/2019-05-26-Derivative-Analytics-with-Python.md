@@ -20,16 +20,12 @@ Broadly, the scope of this book is to:
 Below are a few results from the textbook:
 
 
-1. **Intrinsic Value of Call Option**:
+**Intrinsic Value of Call Option**: The payoff of a call option at time 'T':
+
+![call_option_payoff][call_option_payoff.PNG]
 
 
-The payoff of a call option at time 'T':
-> hT (S,K) = max(ST − K, 0)
-
-![call_option_payoff][Projects\_posts\call_option_payoff.PNG]
-
-
-2. Time Value of Option
-3. Brownian Motion Model Statistical Analysis
-4. Market Data Statistical Analysis
-5. Implied Volatility based on Black Scholes Model 
+Time Value of Option
+Brownian Motion Model Statistical Analysis
+Market Data Statistical Analysis
+Implied Volatility based on Black Scholes Model 
