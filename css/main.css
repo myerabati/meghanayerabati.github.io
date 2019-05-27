@@ -58,10 +58,15 @@ p.posts {
     line-height: 1.4em;
     color: #333;
 }
+ol.posts p{
+    font-size: 1em;
+    line-height: 1.4em;
+    color: #333;
+}
 ul.posts p{
-    font-size: 0.8em;
-    line-height: 1.2em;
-    color: #444;
+   font-size: 1em;
+    line-height: 1.4em;
+    color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
