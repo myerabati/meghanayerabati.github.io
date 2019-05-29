@@ -22,8 +22,8 @@ Below are a few results from the textbook:
 
 **Intrinsic Value of Call Option**: The payoff of a call option at time 'T':
 
-![Call option payoff](https://github.com/meghanayerabati/meghanayerabati.github.io/blob/master/projects/_posts/call_option_payoff.PNG)
-
+<img src="https://github.com/meghanayerabati/meghanayerabati.github.io/blob/master/projects/_posts/call_option_payoff.PNG"
+     alt="Call Option Payoff" />
 
 Time Value of Option
 
