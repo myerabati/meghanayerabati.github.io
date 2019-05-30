@@ -79,12 +79,11 @@ ul.homepage li {
     list-style: none;
     font-size: 1.3em;
 }
-ul.blogpost li{ 
+ul li{ 
     margin: 20px auto 40px; 
     font-size: 1.3em;
 }
-ol.blogpost li{ 
+ol li{ 
     margin: 20px auto 40px; 
     font-size: 1.3em;
 }
-
