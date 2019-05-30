@@ -59,16 +59,7 @@ p.posts {
     line-height: 1.4em;
     color: #333;
 }
-ol.posts p{
-    font-size: 1em;
-    line-height: 1.4em;
-    color: #333;
-}
-ul.posts p{
-   font-size: 1em;
-    line-height: 1.4em;
-    color: #333;
-}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: 0.8em;
@@ -88,3 +79,12 @@ ul.homepage li {
     list-style: none;
     font-size: 1.3em;
 }
+ul.blogpost { 
+    margin: 20px auto 40px; 
+    font-size: 1.3em;
+}
+ol.blogpost { 
+    margin: 20px auto 40px; 
+    font-size: 1.3em;
+}
+
