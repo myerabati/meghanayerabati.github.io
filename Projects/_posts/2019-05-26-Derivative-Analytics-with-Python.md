@@ -20,14 +20,17 @@ Broadly, the scope of this book is to:
 Below are a few results from the textbook:
 
 
-* Intrinsic Value of Call Option: The payoff of a call option at time 'T':
+* Intrinsic Value of Call Option: The payoff of a call option at time 'T' having Strike price of $8000:
+ 
 
 ![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/Projects/_posts/call_option_payoff.PNG "Call option payoff")
 
-Time Value of Option
+* Time Value of Option
 
-Brownian Motion Model
+![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/Projects/_posts/call_option_payoff.PNG "Call option payoff")
 
-Market Data Statistical Analysis
+* Brownian Motion Model
 
-Implied Volatility based on Black Scholes Model 
+* Market Data Statistical Analysis
+
+* Implied Volatility based on Black Scholes Model 
