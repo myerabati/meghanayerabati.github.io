@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Derivative Analytics with Python by Yves Hilpisch"
+title: "Derivative Analytics with Python"
 description: All results are based on the above book by Yves Hilpisch
 total_time: "5 min"
 ---
@@ -8,7 +8,7 @@ total_time: "5 min"
 My current project is to brush up my knowledge of derivatives using python. For this, I will be reading two books – Derivatives Analytics with Python by Yves Hilpisch from Wiley Financial Series and the classic Options, Futures and Other Derivatives by John C. Hull.
 
 
-I will be posting the results from exercises from the book on the blog. The code is available in the book and on [github]("https://github.com/yhilpisch/dawp"). At the end of it, I will also try to work on a project of my own using the concepts learned in the book. This should be fun!
+I will be posting the results from exercises from the book on the blog. The code is available in the book and on [github](https://github.com/yhilpisch/dawp). At the end of it, I will also try to work on a project of my own using the concepts learned in the book. This should be fun!
 
 
 Broadly, the scope of this book is to: 
