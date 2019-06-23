@@ -23,14 +23,26 @@ Below are a few results from the textbook:
 * Intrinsic Value of Call Option: The payoff of a call option at time 'T' having Strike price of $8000:
  
 
-![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/Projects/_posts/call_option_payoff.PNG "Call option payoff")
+![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/Projects/_posts/call_option_payoff.PNG "Call option intrinsic value")
 
 * Time Value of Option
 
-![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/Projects/_posts/call_option_payoff.PNG "Call option payoff")
+![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/projects/_posts/call_option_time_value.PNG "Call option present value")
 
 * Brownian Motion Model
+![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/projects/_posts/simulate%20gbm.PNG "Brownian Motion Model Simulation")
+![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/projects/_posts/log%20returns%20gbm.PNG "Log returns based on Brownian Motion Market Model")
+![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/projects/_posts/realized%20volatility%20gbm.PNG "Realized volatility for  a Brownian Motion Market Model")
+![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/projects/_posts/mean%20returns%20volatility%20gbm.PNG "Mean returns and volatility for Brownian Motion Market Model")
+![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/projects/_posts/qq%20plot%20gbm.PNG "Quantile-Quantile plot for Brownian Motion Model Returns")
 
-* Market Data Statistical Analysis
+
+* Comparison of theoretical model with market model
+![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/projects/_posts/DAX%20returns.PNG "Market Returns for DAX Index")
+![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/projects/_posts/log%20returns%20DAX.PNG "Log returns for DAX Index")
+![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/projects/_posts/realized%20volatility%20DAX.PNG "Realized volatility for DAX Index")
+![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/projects/_posts/mean%20returns%20volatility%20DAX.PNG "Mean returns and volatility for DAX Index")
+![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/projects/_posts/qq%20plot%20DAX.PNG "Quantile-Quantile plot for DAX Index")
 
 * Implied Volatility based on Black Scholes Model 
+//To be updated
