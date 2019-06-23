@@ -20,10 +20,9 @@ Broadly, the scope of this book is to:
 Below are a few results from the textbook:
 
 
-**Intrinsic Value of Call Option**: The payoff of a call option at time 'T':
+* Intrinsic Value of Call Option: The payoff of a call option at time 'T':
 
-<img src="https://github.com/meghanayerabati/meghanayerabati.github.io/blob/master/projects/_posts/call_option_payoff.PNG"
-     alt="Call Option Payoff" />
+![alt text](https://github.com/meghanayerabati/meghanayerabati.github.io/raw/master/Projects/_posts/call_option_payoff.PNG "Call option payoff")
 
 Time Value of Option
 
