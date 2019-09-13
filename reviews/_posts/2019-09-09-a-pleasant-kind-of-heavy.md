@@ -11,4 +11,5 @@ At a time when sexual empowerment of women and other genders is front and centre
 
 The fact that I am reading about a housewife indulging in a sexual act with her maid is resistance enough because it breaks the norms of class, gender, sexuality, body image... But they will never be real to me as I am left wondering what drives the characters.
 
-Of course, there are a few exceptions within the stories such as 'Triptych' which delves deeply into the relationship between grief and eroticism. The writing is powerful, borders on surreal. In this story, sex is survival. And for a gem such as this, I give the book a 4/5
+Of course, there are a few exceptions within the stories such as 'Triptych' which delves deeply into the relationship between grief and eroticism. The writing is powerful, borders on surreal. In this story, sex is survival. And for a gem such as this, I give the book a 4/5.
+
