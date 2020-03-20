@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Audacity of Hope by Barrack Obama"
+title: "The Audacity of Hope by Barack Obama"
 description: "My rating: 3 out of 5 stars"
 total_time: 1 to 2 minutes
 ---
@@ -13,7 +13,7 @@ I found the initial chapters on political rancour, on the importance of values i
 
 Obama weaves his own story and observations into his comments on public policy. His writing is readable but his politics is not always concise. A reading of the issues in the book may be one-sided but it gives a good idea on the motivation. 
 
-Mostly, I found the reading fulfilling because I could rationalize some of the issues closer to home such as the partisan nature of current Indian politics. The importance of values in politics from which the popularity of Hindutva stems. 
+Mostly, I found the reading fulfilling because I could rationalize some of the issues closer to home such as the partisan nature of current Indian politics, the importance of values in politics from which the popularity of Hindutva stems, etc. 
 
 In terms of economics, India is very much behind the US because we have no concept of social security or universal health care. We also have a more unequal society with challenges to upward mobility. 
 
